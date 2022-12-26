@@ -1,17 +1,3 @@
-/**
- * Sudoku.java
- * 
- * Implementation of a class that represents a Sudoku puzzle and solves
- * it using recursive backtracking.
- *
- * Computer Science 112, Boston University
- *
- * your name: Robert Hannon
- * 
- * Partner: Tessa Wu
- *
- */
-
 import java.io.*;   // allows us to read from a file
 import java.util.*;
 
