@@ -1,2 +1,2 @@
 # Sudoku
-Recursively solves Sudoku board, try inputting your own numbers!
+## Uses recursive backtracking to solve Sudoku board, can try inputting your own numbers.
